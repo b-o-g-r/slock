@@ -1,6 +1,6 @@
-slock - simple screen locker
+SLOCK
 ============================
-simple screen locker utility for X.
+Personal DWMBlocks Setup
 
 
 Requirements
