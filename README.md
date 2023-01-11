@@ -8,15 +8,15 @@ Requirements
 In order to build slock you need the Xlib header files.
 
 
-Installation
-------------
-Edit config.mk to match your local setup (slock is installed into
-the /usr/local namespace by default).
-
-Afterwards enter the following command to build and install slock
-(if necessary as root):
-
-    make clean install
+## Installation
+* Create a folder for the source files in /etc:
+  * `sudo mkdir /etc/slock`
+* Enter the newly created folder:
+  * `cd /etc/slock`
+* Clone the repository:
+  * `sudo git clone https://github.com/b-o-g-r/slock.git .`
+* Compile:
+  * `sudo make clean install`
 
 
 Running slock
