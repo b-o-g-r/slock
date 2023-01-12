@@ -1,6 +1,6 @@
 SLOCK
 ============================
-Personal SLOCK Setup
+Personal [SLOCK](https://tools.suckless.org/slock/) Setup
 
 
 Requirements
