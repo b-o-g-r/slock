@@ -1,6 +1,6 @@
 SLOCK
 ============================
-Personal DWMBlocks Setup
+Personal SLOCK Setup
 
 
 Requirements
