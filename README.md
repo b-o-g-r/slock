@@ -17,6 +17,8 @@ In order to build slock you need the Xlib header files.
   * `sudo git clone https://github.com/b-o-g-r/slock.git .`
 * Compile:
   * `sudo make clean install`
+* Set autolock (requires [xautolock](https://linux.die.net/man/1/xautolock))
+  * `xautolock -time 10 -locker slock`
 
 
 Running slock
