@@ -15,11 +15,11 @@ static const int failonclear = 1;
 #define BLUR
 /*Set blur radius*/
 /*Enable Pixelation*/
-static const int blurRadius = 5;
+static const int blurRadius = 40;
 
 #define PIXELATION
 /*Set pixelation radius*/
-static const int pixelSize = 5;
+static const int pixelSize = 4;
 
 /* default message */
 static const char *message = "ENTER YOUR PASSWORD";
