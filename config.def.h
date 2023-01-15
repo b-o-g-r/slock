@@ -22,7 +22,7 @@ static const int blurRadius = 40;
 static const int pixelSize = 4;
 
 /* default message */
-static const char *message = "ENTER YOUR PASSWORD";
+static const char *message = "E N T E R    Y O U R    P A S S W O R D";
 
 /* text color */
 static const char *text_color = "#ffffff";
